@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "cpo-test",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "96b3a55b-3338-446a-8603-9a2d3b022555",
+      "database_name": "cpo-test"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
